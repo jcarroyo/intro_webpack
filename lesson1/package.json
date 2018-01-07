@@ -1,0 +1,18 @@
+{
+  "name": "webapp1",
+  "version": "1.0.0",
+  "description": "test project for studying",
+  "main": "index.js",
+  "author": "Jose Arroyo",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "prod": "webpack -p"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.10.0"
+  }
+}
